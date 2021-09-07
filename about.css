@@ -1,0 +1,202 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background: linear-gradient(145deg, #cacaca, #f0f0f0); 
+}
+
+.container {
+    width: 1300px;
+    margin: auto;
+    position: relative;
+}
+.left {
+    position: absolute;
+    left: -70px;
+    top: 47%;
+    font-size: 40px;
+    color: black;
+}
+.back {
+    display: flex;
+}
+.back .dorvoljin1 {
+    width: 50%;
+    height: 50vh;
+   
+    margin: 10px;
+    border-radius: 1rem;
+    background: linear-gradient(125deg,#030580, #2527ae,#4846c2,#47abd2,#c6dcf1,#eef1f3,#c6dcf1,#47abd2,#4846c2,#2527ae,#030580);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+   
+   /* background: linear-gradient(90deg, #AE8625,#F7EF8A,#D2AC47,#F7EF8A,#EDC967,#AE8625,#D2AC47); 
+    background:linear-gradient(90deg,#09f5f5,#34c7cc,#c9def3,#81e0e0,#32f1cb) ;*/
+
+}
+.back .dorvoljin1 p {
+    font-size: 22px;
+    color: #030580;
+    text-align: initial;
+    padding: 1rem;
+}
+.dorvoljin1 .focus {
+    width: 50%;
+  
+    align-items: center;
+    padding-right: 2rem;
+
+}
+ .focus .durvul {
+    width: 150px;
+    height: 150px;
+    border: 3px solid #787979;
+
+}
+ .focus .durvul1 {
+    width: 140px;
+    height: 140px;
+    border: 3px solid #7A7C73;
+    margin: 2px;
+}
+ .focus .durvul2 {
+    width: 130px;
+    height: 130px;
+    border: 3px solid #72638A;
+    margin: 2px;
+}
+ .focus .durvul3 {
+    width: 120px;
+    height: 120px;
+    border: 3px solid #4874A6;
+    margin: 2px;
+}
+ .focus .durvul4 {
+    width: 110px;
+    height: 110px;
+    border: 3px solid #52868A;
+    margin: 2px;
+}
+ .focus .durvul5 {
+    width: 100px;
+    height: 100px;
+    border: 3px solid #0b5257;
+    margin: 2px;
+}
+ .focus .dugui {
+    width: 40px;
+    height: 40px;
+    background-color: #eef1f3;
+   
+
+    border-radius: 50%;
+    margin: 26px;
+    
+}
+.back .dorvoljin2 {
+    width: 50%;
+    height: 50vh;
+    
+    margin: 10px;
+    border-radius: 1rem;
+   
+
+}
+.back .dorvoljin3 {
+    width: 50%;
+    height: 50vh;
+    
+    margin: 10px;
+  
+    background-image: url(https://j5w7x4w6.rocketcdn.me/wp-content/uploads/2021/07/black-metal-bass-guitar.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 1rem;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+  
+
+}
+.back .dorvoljin3 p {
+    color: #c4c4c4;;
+    font-size: 20px;
+    padding-right: 10px;
+   
+
+}
+.back .dorvoljin4 {
+    width: 50%;
+    height: 50vh;
+   
+    margin: 10px;
+    border-radius: 1rem;
+    
+
+}
+.uusah {
+    width: 100%;
+    height: 100%;
+    background-image: url(./DSC_0021.JPG);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 1rem;
+}
+.davhar {
+    width: 100%;
+    height: 100%;
+    background: radial-gradient(#20405a1c 20%,#000000 60%);
+    border-radius: 1rem;
+}
+.tegshO {
+    width:400px;
+    height: 230px;
+    background:linear-gradient(90deg,#AE8625,#F7EF8A,#D2AC47,#F7EF8A,#EDC967,#AE8625,#D2AC47) ;
+    border-radius: 16px;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    
+} 
+.dorvoljin4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(images.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+   
+}
+h1 {
+    color: gold;
+    
+    
+}
+.tegshO i {
+    padding-left: 30px;
+    font-size: 200px;
+    color:#2f3640;
+
+}
+.back .dorvoljin4 p {
+    color: white;
+}
+.back .dorvoljin4 .tegshO p {
+    padding: 5px 5px;
+    letter-spacing: 5px;
+    font-weight: 600;
+    text-align: justify;
+    color: #D2AC47;
+}
+.back .dorvoljin4 .tegshO span {
+    text-transform: uppercase;
+    color: #AE8625;
+}
+
